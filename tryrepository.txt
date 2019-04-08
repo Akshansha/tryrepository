@@ -1,2 +1,6 @@
 try repository
+<<<<<<< HEAD
 hi akshu
+=======
+edited by pal
+>>>>>>> pr/2
