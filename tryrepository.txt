@@ -1,6 +1,10 @@
 try repository
 <<<<<<< HEAD
+<<<<<<< HEAD
 helloo from nidhi
 =======
 edited by pal
 >>>>>>> pr/2
+=======
+hi akshu
+>>>>>>> pr/1
