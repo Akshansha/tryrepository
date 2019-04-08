@@ -1,2 +1,6 @@
 try repository
+<<<<<<< HEAD
 helloo from nidhi
+=======
+edited by pal
+>>>>>>> pr/2
